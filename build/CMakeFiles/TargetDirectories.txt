@@ -1,0 +1,3 @@
+/home/dudu1/gd45/detectandavoid/build/CMakeFiles/detectandavoid.dir
+/home/dudu1/gd45/detectandavoid/build/CMakeFiles/edit_cache.dir
+/home/dudu1/gd45/detectandavoid/build/CMakeFiles/rebuild_cache.dir

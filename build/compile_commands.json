@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/dudu1/gd45/detectandavoid/build",
+  "command": "/usr/bin/g++  -isystem /usr/local/include/opencv4 -g -O3 -ggdb -Wall -fpermissive -g -o CMakeFiles/detectandavoid.dir/src/main.cpp.o -c /home/dudu1/gd45/detectandavoid/src/main.cpp",
+  "file": "/home/dudu1/gd45/detectandavoid/src/main.cpp"
+}
+]
